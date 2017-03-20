@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Stratis.Bitcoin.NodeExample": {
+      "commandName": "Project",
+      "commandLineArgs": "-datadir=C:\\stratis-testnet\\node1\\"
+    }
+  }
+}
